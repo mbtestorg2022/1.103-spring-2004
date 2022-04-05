@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: ceadcd63-d6dd-fe94-8798-195723bb10fa
 ---
@@ -41,13 +44,13 @@ Subgroup B2 Data ([ZIP]({{< baseurl >}}/resources/lab1_groupb2))
 Lab 2. Tension I - Elastic Behavior ([PDF]({{< baseurl >}}/resources/lab_2))
 {{< tdclose >}}
 {{< tdopen >}}
-Subgroup A1 Data ({{% resource_link "ac7d7f58-6bb9-c8bf-0ab8-9f5bb04e8a55" "TXT" %}})  
+Subgroup A1 Data ([TXT]({{< baseurl >}}/resources/a1thick))  
   
-Subgroup A2 Data ({{% resource_link "682339ef-3871-5244-7e1d-d6041e1b59fd" "TXT" %}})  
+Subgroup A2 Data ([TXT]({{< baseurl >}}/resources/a2thin))  
   
-Subgroup B1 Data ({{% resource_link "8b1231dd-6bd0-5239-b94e-bca4f9663f10" "TXT" %}})  
+Subgroup B1 Data ([TXT]({{< baseurl >}}/resources/b1long))  
   
-Subgroup B2 Data ({{% resource_link "52baed5a-7fd7-f1d5-86a2-4d3be14be27f" "TXT" %}})  
+Subgroup B2 Data ([TXT]({{< baseurl >}}/resources/b2std))  
   
 Lab 2 Summary ([PDF]({{< baseurl >}}/resources/lab_2_summary))
 {{< tdclose >}}

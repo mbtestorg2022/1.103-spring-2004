@@ -3,6 +3,11 @@ content_type: resource
 description: This ZIP file contains data files associated with Lab 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3dfaac447053cb1e6b7e21c76f492f0d_groupA2.zip
 file_type: application/octet-stream
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 parent_uid: ceadcd63-d6dd-fe94-8798-195723bb10fa
 resourcetype: Other
 title: GroupA2.zip

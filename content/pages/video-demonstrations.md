@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Video Demonstrations
 uid: e96b654e-9d6b-4acd-3e68-cd86105313ee
 ---
