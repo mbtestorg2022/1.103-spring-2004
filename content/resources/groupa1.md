@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This ZIP file contains data files associated with Lab 7.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/f27f27ef3fce63a63d8d447ed4eec2e9_groupA1.zip
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-103-civil-engineering-materials-laboratory-spring-2004/f27f27ef3fce63a63d8d447ed4eec2e9_groupA1.zip
 file_type: application/octet-stream
 learning_resource_types:
 - Labs
